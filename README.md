@@ -31,6 +31,11 @@ Here are a few things about me:
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/hydro.bluee/" rel="nofollow">Instagram</a> 🏆
 </p>
 
+<!-- Gree Dot animation-->
+<div align="center">
+      <a  href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" rel="nofollow"><img       src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" alt="Hackerearth" data-canonical-src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" style="max-width:100%;"></a>
+</div>
+
 ---
 
 ### 🏆 My Github & LeetCode Stats 🏆
@@ -45,7 +50,8 @@ Here are a few things about me:
                   </th>
                   <th>
                         <p align="center">
-                            <img src="https://github-readme-streak-stats.herokuapp.com/?user=vVek17&theme=github-dark&background=1e1e2f&ring=ff79c6&fire=ffb86c&currStreakLabel=50fa7b" />
+                             <img src="https://github-readme-streak-stats.herokuapp.com/?user=vVek17&theme=github-dark&background=1e1e2f&ring=ff79c6&fire=ffb86c&currStreakLabel=50fa7b" />
+                        </p>
                         </p>
                   </th>
             </tr>
