@@ -45,12 +45,12 @@ Here are a few things about me:
             <tr>
                   <th>
                         <p align="center">
-                            <img src="https://github-readme-stats.vercel.app/api?username=vVek17&show_icons=true&theme=gradient&bg_color=1e1e2f,23243f,2a2d4d,3c366b&title_color=ff79c6&text_color=8be9fd&icon_color=50fa7b&border_radius=16" />
+                            <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vVek17&show_icons=true&theme=radical" /></p>
                         </p>
                   </th>
                   <th>
                         <p align="center">
-                             <img src="https://github-readme-streak-stats.herokuapp.com/?user=vVek17&theme=github-dark&background=1e1e2f&ring=ff79c6&fire=ffb86c&currStreakLabel=50fa7b" />
+                            <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vVek17&show_icons=true&theme=radical"></p>
                         </p>
                         </p>
                   </th>
@@ -58,7 +58,9 @@ Here are a few things about me:
             <tr>
                   <th colspan="2">
                         <p align="center">
-                            <img src="https://leetcard.jacoblin.cool/vVek17?theme=dark&font=Baloo+Bhai&ext=contest&border=1&animation=true" alt="LeetCode Stats">
+                              <p align="center">  
+                                  <img src="https://leetcard.jacoblin.cool/vVek17?theme=dark&font=Baloo+Bhai&ext=contest&border=1&animation=true" alt="LeetCode Stats">
+                              </p>
                         </p>
                   </th>
             </tr>
