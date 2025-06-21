@@ -1,12 +1,24 @@
-### Hello world 👋 🌍
+# 👋 Yooo, Vivek here!
+
+From "𝘢𝘣𝘤" to ''𝙷𝚎𝚕𝚕𝚘 𝚆𝚘𝚛𝚕𝚍''; <br/>
+From "pen" to "keyboard"; <br/>
+Enjoying the journey in the Tech Universe;
+
 
 ---
 
-### Thank you for checking out my profile!  
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" align="center" width="200"/> &nbsp;&nbsp;&nbsp;&nbsp;
-Hello
+## 🚀 Tech & Me
+
+<!--  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" align="center" width="200"/> &nbsp;&nbsp;&nbsp;&nbsp; -->
+- 👨‍💻 **Full Stack Developer | B.Tech IT Student**
+- 🚀 Building with: **MERN Stack, Java, SQL, DSA**
+- ✨ [Portfolio Website](https://vvek17.github.io/portfolio/)
+- 📚 Leetcode: [vVek17](https://leetcode.com/vVek17/)
+- 🌱 Always exploring new tech, creative code, and design
+
 ---
 
+<!--
 Here are a few things about me:
 - 👨‍💻 **Full Stack Developer | B.Tech IT Student**
 - 🚀 Building with: **MERN Stack, Java, SQL, DSA**
@@ -20,10 +32,9 @@ Here are a few things about me:
 - 🔗 Socials:  
       <a href="https://www.instagram.com/hydro.bluee/" rel="nofollow">Instagram</a> • 
       <a href="https://vvek17.github.io/portfolio/" rel="nofollow">Portfolio</a>
+-->
 
----
-
-### 🏆 My Coding Profiles
+### 💌 Connect to me at...
 
 <p align="center">
 <a href="https://leetcode.com/vVek17/" rel="nofollow">Leetcode</a> 🏆
@@ -38,7 +49,7 @@ Here are a few things about me:
 
 ---
 
-### 🏆 My Github & LeetCode Stats 🏆
+### 🏆 GitHub 🤍 LeetCode 🏆
 
 <table>
       <thead>
@@ -67,10 +78,12 @@ Here are a few things about me:
       </thead>
 </table>
 
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vVek17&layout=compact&theme=gradient&bg_color=1e1e2f,23243f,2a2d4d,3c366b&title_color=ff79c6&text_color=8be9fd&border_radius=16">
 </p>
+-->
 
 ---
 
-<p align="center">Show ❤️ by starring and forking repositories you find helpful!</p>
+<p align="center">Show ❤️ by starring and forking repos you find helpful!</p>
