@@ -56,22 +56,19 @@ Here are a few things about me:
             <tr>
                   <th>
                         <p align="center">
-                            <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vVek17&show_icons=true&theme=radical" /></p>
+                              <img src="https://github-readme-stats.vercel.app/api?username=MAZHARMIK&show_icons=true&theme=radical">
                         </p>
                   </th>
                   <th>
                         <p align="center">
-                            <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vVek17&show_icons=true&theme=radical"></p>
-                        </p>
+                              <img src="https://leetcard.jacoblin.cool/vVek17?theme=dark&font=Baloo+Bhai&ext=contest&border=1&animation=true" alt="LeetCode Stats">
                         </p>
                   </th>
             </tr>
             <tr>
                   <th colspan="2">
                         <p align="center">
-                              <p align="center">  
-                                  <img src="https://leetcard.jacoblin.cool/vVek17?theme=dark&font=Baloo+Bhai&ext=contest&border=1&animation=true" alt="LeetCode Stats">
-                              </p>
+                              <img src="https://github-readme-streak-stats.herokuapp.com/?user=vVek17">
                         </p>
                   </th>
             </tr>
