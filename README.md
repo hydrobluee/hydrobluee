@@ -1,8 +1,8 @@
 # 👋 Yooo, Vivek here!
 
-From "𝘢𝘣𝘤" to ''𝙷𝚎𝚕𝚕𝚘 𝚆𝚘𝚛𝚕𝚍''; <br/>
-From "pen" to "keyboard"; <br/>
-Enjoying the journey in the Tech Universe;
+From "𝘢𝘣𝘤" to ''𝙷𝚎𝚕𝚕𝚘 𝚆𝚘𝚛𝚕𝚍'' ; <br/>
+From "pen" to "keyboard" ; <br/>
+Enjoying the journey in the Tech Universe ;
 
 
 ---
