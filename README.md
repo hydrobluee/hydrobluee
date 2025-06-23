@@ -12,9 +12,9 @@ Enjoying the journey in the Tech Universe ;
 <!--  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" align="center" width="200"/> &nbsp;&nbsp;&nbsp;&nbsp; -->
 - 👨‍💻 **Full Stack Developer | B.Tech IT Student**
 - 🚀 Building with: **MERN Stack, Java, SQL, DSA**
+- 🌱 Constantly cooking up weird code, Building APIs like Lego blocks, and turning bugs into features 😮‍💨💻🛠️
 - ✨ [Portfolio Website](https://vvek17.github.io/portfolio/)
 - 📚 Leetcode: [vVek17](https://leetcode.com/vVek17/)
-- 🌱 Always exploring new tech, creative code, and design
 
 ---
 
