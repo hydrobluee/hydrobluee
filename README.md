@@ -13,8 +13,8 @@ Enjoying the journey in the Tech Universe ;
 - 👨‍💻 **Full Stack Developer | B.Tech IT Student**
 - 🚀 Building with: **MERN Stack, Java, SQL, DSA**
 - 🌱 Constantly cooking up weird code, Building APIs like Lego blocks, and turning bugs into features 😮‍💨💻🛠️
-- ✨ [Portfolio Website](https://vvek17.github.io/portfolio/)
-- 📚 Leetcode: [vVek17](https://leetcode.com/vVek17/)
+- ✨ [Portfolio Website](https://hydrobluee.github.io/portfolio/)
+- 📚 Leetcode: [vVek17](https://leetcode.com/hydroblue/)
 
 ---
 
