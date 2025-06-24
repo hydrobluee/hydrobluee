@@ -14,7 +14,7 @@ Enjoying the journey in the Tech Universe ;
 - 🚀 Building with: **MERN Stack, Java, SQL, DSA**
 - 🌱 Constantly cooking up weird code, Building APIs like Lego blocks, and turning bugs into features 😮‍💨💻🛠️
 - ✨ [Portfolio Website](https://hydrobluee.github.io/portfolio/)
-- 📚 Leetcode: [vVek17](https://leetcode.com/hydroblue/)
+- 📚 Leetcode: [hydroblue](https://leetcode.com/hydroblue/)
 
 ---
 
