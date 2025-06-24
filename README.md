@@ -61,14 +61,14 @@ Here are a few things about me:
                   </th>
                   <th>
                         <p align="center">
-                              <img src="https://leetcard.jacoblin.cool/vVek17?theme=dark&font=Baloo+Bhai&ext=contest&border=1&animation=true" alt="LeetCode Stats">
+                              <img src="https://leetcard.jacoblin.cool/hydroblue?theme=dark&font=Baloo+Bhai&ext=contest&border=1&animation=true" alt="LeetCode Stats">
                         </p>
                   </th>
             </tr>
             <tr>
                   <th colspan="2">
                         <p align="center">
-                              <img src="https://github-readme-streak-stats.herokuapp.com/?user=vVek17">
+                              <img src="https://github-readme-streak-stats.herokuapp.com/?user=hydrobluee">
                         </p>
                   </th>
             </tr>
